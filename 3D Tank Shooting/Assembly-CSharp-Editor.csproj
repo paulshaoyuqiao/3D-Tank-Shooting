@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{6C222D7B-D971-862B-F0B6-8AD261FF6EE0}</ProjectGuid>
+    <ProjectGuid>{A0BB6BC2-D3A6-2446-B99C-84769A361216}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -98,16 +98,16 @@
     <Compile Include="Assets\PostProcessing\Editor\Utils\ReflectionUtils.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/private/var/folders/jq/f0szv_453d31_9xwgvhs45yc0000gn/T/4f33695b33ca34d9eaf8fd6ab84eae68/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/paulshao/gameDev/3D-Tank-Shooting/3D Tank Shooting/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/private/var/folders/jq/f0szv_453d31_9xwgvhs45yc0000gn/T/4f33695b33ca34d9eaf8fd6ab84eae68/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/paulshao/gameDev/3D-Tank-Shooting/3D Tank Shooting/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/private/var/folders/jq/f0szv_453d31_9xwgvhs45yc0000gn/T/4f33695b33ca34d9eaf8fd6ab84eae68/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/paulshao/gameDev/3D-Tank-Shooting/3D Tank Shooting/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/private/var/folders/jq/f0szv_453d31_9xwgvhs45yc0000gn/T/4f33695b33ca34d9eaf8fd6ab84eae68/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/paulshao/gameDev/3D-Tank-Shooting/3D Tank Shooting/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -412,7 +412,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{BE813693-18F5-01FB-C0AA-9103DEBC42F8}</Project>
+      <Project>{6207DEEA-73CE-1268-71E6-E04384351791}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
